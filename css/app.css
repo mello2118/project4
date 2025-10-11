@@ -1,0 +1,9 @@
+body {
+  background-color:#000000;
+  color:#FFFFFF;
+  font-family:"Ubuntu", Arial, sans-serif;
+}
+.callout {
+  background-color:#FFCC00;
+  color:#FFFFFF;
+  border:3px solid #FFFFFF;
