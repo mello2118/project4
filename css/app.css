@@ -1,9 +1,19 @@
 body {
   background-color:#000000;
-  color:#FFFFFF;
+  color:#FFCC00;
   font-family:"Ubuntu", Arial, sans-serif;
 }
 .callout {
   background-color:#FFCC00;
-  color:#FFFFFF;
-  border:3px solid #FFFFFF;
+  color:#000000;
+  border:8px solid #FFFFFF;
+}
+.animation {
+  position:relative;
+  animation-name: fadein;
+  animation-duration: 3s;
+  }
+@keyframes myanimation {
+    from{opacity:0;}
+    to{opacity:1;}
+  }
