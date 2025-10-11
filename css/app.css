@@ -13,7 +13,7 @@ body {
   animation-name: fadein;
   animation-duration: 3s;
   }
-@keyframes myanimation {
+@keyframes fadein {
     from{opacity:0;}
     to{opacity:1;}
   }
